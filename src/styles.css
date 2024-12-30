@@ -1,0 +1,24 @@
+.App {
+  height: auto;
+  width: 300px;
+  border: 2px solid black;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.text {
+  padding: 0px 10px 5px 20px;
+  margin: 0px;
+  font-family: Arial, sans-serif;
+}
+
+.skill {
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 10px;
+  margin: 5px;
+}
